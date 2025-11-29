@@ -1,0 +1,3 @@
+Python is a high-level programming language. It is widely used for data science, web development, and automation.
+Capgemini Invent is a global business and technology transformation partner.
+Generative AI allows machines to create text, images, and code from prompts.
